@@ -1,4 +1,4 @@
-<h1 align="center">Anant Parmar</h1>
+<h1 align="center">Parth Radadiya</h1>
 <h3 align="center">Fullstack Developer from India. Interested in Startups, SaaS, and AI Integrations</h3>
   
 <br/>  
